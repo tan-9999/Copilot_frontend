@@ -1,4 +1,4 @@
-    const API_BASE_URL = 'http://localhost:5000/api'
+    const API_BASE_URL = 'https://codebuddy-backend-2e8g.onrender.com/api'
 
     export const sendPrompt = async ({ prompt, workingDirectory, verbose }) => {
     try {
